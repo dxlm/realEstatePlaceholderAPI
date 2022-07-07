@@ -1,0 +1,82 @@
+{
+    "villas":[
+        {
+            "id": 0,
+            "name": "Villa Borgini",
+            "description": "Restored farmhouse with pool, gardens, vineyard, lemon grove and land near to Cecina, set on a hilly and panoramic position. 4 bedrooms, 3 bathrooms.",
+            "history": "Built in 1891 by Bambino Bombazolo",
+            "web": "www.fakewebsite.com",
+            "image": "https://images.unsplash.com/photo-1626481000473-5946dd982490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "address":[
+                {
+                    "addressid": "0",
+                    "number": "73",
+                    "line1": "Via Giovanna Surli",
+                    "city": "Ambiato",
+                    "postcode": "12378",
+                    "country": "Italy"
+
+                }
+            ]
+        },
+
+        {
+            "id": 1,
+            "name": "La Tempestina",
+            "description": "Live on the coast with this grand home, close to Livorno, marble floors, 5 bedrooms, 3 bathrooms.",
+            "history": "Built in 1927",
+            "web": "www.fakewebsite.com",
+            "image": "https://images.unsplash.com/photo-1533554030380-20991a0f9c9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "address":[
+                {
+                    "addressid": "1",
+                    "number": "29",
+                    "line1": "Viale Aspezio",
+                    "city": "Tonella",
+                    "postcode": "987378",
+                    "country": "Italy"
+
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "name": "Villa Riccio",
+            "description": "Nella stile moderno, considerato grazie alla sua straordinaria bellezza uno delle ville piu carine in Italia, in posizione unica con panorama mozzafiato sulla Baia di Tindari ",
+            "history": "Built in 1978",
+            "web": "www.fakewebsite.com",
+            "image": "https://images.unsplash.com/photo-1626481000473-5946dd982490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+            "address":[
+                {
+                    "addressid": "2",
+                    "number": "651",
+                    "line1": "Via Norli",
+                    "city": "Novarra",
+                    "postcode": "9007478",
+                    "country": "Italy"
+
+                }
+            ]
+        }
+
+    ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
