@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/dxlm/realEstatePlaceholderAPI/issues"
   },
-  "homepage": "https://github.com/dxlm/realEstatePlaceholderAPI#readme"
+  "homepage": "https://github.com/dxlm/realEstatePlaceholderAPI#readme",
+  "dependencies": {
+    "json-server": "^0.4.2"
+  }
 }
